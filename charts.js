@@ -165,7 +165,7 @@ function buildCharts(sample) {
     }
     ];
     // Deliverable 3: 5. Create the layout for the gauge chart.
-    ar gaugeLayout = {
+    var gaugeLayout = {
       margin: { t: 20, b: 20, l: 20, r: 30, }
 
     };
